@@ -1,8 +1,8 @@
 [DIALOG_GEOMETRY]
 AboutDialog-geometry = 910 599 815 607
-LncMessage-geometry = 910 539 321 118
+LncMessage-geometry = 910 539 232 154
 ToolChangeDialog-geometry = 910 599 340 239
-VersaHelpDialog-geometry = default
+VersaHelpDialog-geometry = 660 254 600 600
 CalculatorDialog-geometry = 910 599 472 376
 _CALCULATOR = 910 599 472 376
 axisToolButtonDialog_CALCULATOR = 910 599 472 376
@@ -54,7 +54,7 @@ desktop_notify = True
 notify_max_msgs = 10
 shutdown_check = True
 sound_player_on = False
-MainWindow-geometry = 0 0 1920 1200
+MainWindow-geometry = 0 0 1920 1080
 
 [MCH_MSG_OPTIONS]
 mchnMsg_play_sound = True
